@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thambara</h1>
 <h3 align="center">Computer Science & Engineering student.</h3>
+<div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thambara-20&label=Profile%20views&color=0e75b6&style=flat" alt="thambara-20" /> </p>
 
@@ -17,6 +18,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thambara-20&show_icons=true&locale=en&layout=compact" alt="thambara-20" /></p>
 
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thambara-20&show_icons=true&locale=en" alt="thambara-20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thambara-20&" alt="thambara-20" /></p>
+<div align="center">
+  <img src="https://github.com/Thambara-20/Thambara-20/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+</div>
