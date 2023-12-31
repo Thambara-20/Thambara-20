@@ -31,11 +31,12 @@
 </div>
 
 
-<div style="display: flex; justify-content: space-between; flex-direction: raw;">
- <h2 align="center">GitHub Stats</h2>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=thambara-20&" alt="thambara-20" />
-      <img src="https://github-readme-stats.vercel.app/api?username=thambara-20&show_icons=true&locale=en" alt="thambara-20" />
-      <div align ="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thambara-20&show_icons=true&locale=en&layout=compact"alt="thambara-20"/></div>
+<div align=center >
+ <h2 align= center >GitHub Stats</h2>
+      <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=thambara-20&" alt="thambara-20" />
+      <img width=390 src="https://github-readme-stats.vercel.app/api?username=thambara-20&show_icons=true&locale=en" alt="thambara-20" />
+      <br>
+      <img align=center width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=thambara-20&show_icons=true&locale=en&layout=compact"alt="thambara-20"/>
 
 </div>
 
